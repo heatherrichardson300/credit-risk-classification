@@ -1,7 +1,5 @@
 # credit-risk-classification
 
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of this analysis was to evaluate the creditworthiness of loan borrowers. Various machine learning techniques were used to analyze a historical dataset from a peer-to-peer lending services company. Two loan types were evaluated: **high-risk loans** and **healthy loans**. 
